@@ -344,9 +344,6 @@ Some variables used to deploy the steps have default values, check those **befor
 - Step 3-networks-hub-and-spoke: The READMEs of the environments [shared](./3-networks-hub-and-spoke/envs/shared/README.md#inputs), [development](./3-networks-hub-and-spoke/envs/development/README.md#Inputs), [non-production](./3-networks/envs/non-production/README.md#Inputs), and [production](./3-networks/envs/production/README.md#Inputs)
 - Step 4-projects: The READMEs of the environments [shared](./4-projects/business_unit_1/shared/README.md#inputs), [development](./4-projects/business_unit_1/development/README.md#Inputs), [non-production](./4-projects/business_unit_1/non-production/README.md#Inputs), and [production](./4-projects/business_unit_1/production/README.md#Inputs)
 
-## Errata summary
-
-Refer to the [errata summary](./ERRATA.md) for an overview of the delta between the example foundation repository and the [Google Cloud security foundations guide](https://cloud.google.com/architecture/security-foundations).
 
 ## Contributing
 
